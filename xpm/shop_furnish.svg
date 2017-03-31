@@ -20,7 +20,7 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
-           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+           rdf:resource="http://unlicense.org/UNLICENSE" />
         <dc:language>en</dc:language>
         <dc:title></dc:title>
       </cc:Work>
@@ -28,115 +28,10 @@
   </metadata>
   <defs
      id="defs4">
-    <symbol
-       viewBox="244.5 110 489 219.9"
-       id="symbol-university">
-      <path
-         id="path4460"
-         d="m 79,43 57,119 c 0,0 21,-96 104,-96 83,0 124,106 124,106 L 407,39 489,22 0,17 Z" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:20"
-         id="path4462"
-         d="M 94,176 73,215" />
-      <path
-         id="path4464"
-         d="M 300,19 C 300,29.5 277.4,38 249.5,38 221.6,38 199,29.5 199,19 199,8.5 221.6,0 249.5,0 277.4,0 300,8.5 300,19 Z" />
-      <path
-         style="stroke:#000000;stroke-width:20"
-         ill="none"
-         id="path4466"
-         d="M 112,216 96,178 64,88 C 64,88 55,80 60,53 65,26 76,29 76,29" />
-    </symbol>
-    <radialGradient
-       xlink:href="#linearGradient829"
-       r="101.58017"
-       id="radialGradient874"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.79354273,1.2601716)"
-       fy="198.41902"
-       fx="180.2453"
-       cy="198.41902"
-       cx="180.2453" />
-    <linearGradient
-       id="linearGradient829">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 0.341667;"
-         offset="0.0000000"
-         id="stop830" />
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 0;"
-         offset="1.0000000"
-         id="stop831" />
-    </linearGradient>
-    <radialGradient
-       xlink:href="#linearGradient829"
-       r="46.394722"
-       id="radialGradient832"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(1.007004,0.99304475)"
-       fy="167.47372"
-       fx="360.85147"
-       cy="167.47372"
-       cx="360.85147" />
-    <linearGradient
-       id="linearGradient6826">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 0.341667;"
-         offset="0.0000000"
-         id="stop6828" />
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 0;"
-         offset="1.0000000"
-         id="stop6830" />
-    </linearGradient>
-    <linearGradient
-       y2="405.76871"
-       y1="248.24467"
-       xlink:href="#linearGradient855"
-       x2="463.27057"
-       x1="465.29425"
-       spreadMethod="pad"
-       id="linearGradient850"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.74491357,1.3424376)" />
-    <linearGradient
-       id="linearGradient855">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 0;"
-         offset="0.0000000"
-         id="stop856" />
-      <stop
-         style="stop-color: rgb(255, 166, 23); stop-opacity: 0.733333;"
-         offset="1.0000000"
-         id="stop857" />
-    </linearGradient>
-    <linearGradient
-       y2="231.6349"
-       y1="120.96176"
-       xlink:href="#linearGradient855"
-       x2="155.40575"
-       x1="157.80582"
-       id="linearGradient854"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(1.4586159,0.68558144)" />
-    <linearGradient
-       id="linearGradient6837">
-      <stop
-         style="stop-color: rgb(255, 255, 255); stop-opacity: 0;"
-         offset="0.0000000"
-         id="stop6839" />
-      <stop
-         style="stop-color: rgb(255, 166, 23); stop-opacity: 0.733333;"
-         offset="1.0000000"
-         id="stop6841" />
-    </linearGradient>
-    <clipPath
-       id="clipoutline2"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="outline2"
-         d="m 55.8,12 0.76,0.16 c 8.84,-2.94 28.68,8.64 24.26,18.96 -1.12,1.62 -0.93,4.5 0.42,6.31 L 56.43,62.25 c -1.39,-1.39 -4.48,-1.36 -5.9,0 L 9.5,101.63 c -3.74,3.59 -0.8,6.64 0.78,8.25 l 7.36,7.36 c 1.61,1.6 5.86,3.76 8.88,0.56 L 65.24,76.99 c 1.35,-1.42 1.36,-4.47 0,-5.87 0,0 0.01,-0.02 0,-0.02 L 90.15,46.2 c 2.63,2.37 5.113827,2.574854 7.47,1.93 4.55057,-1.245432 7.08725,3.206643 9.81,6.46 l -1.23,1.21 c -1.82,1.84 -1.65,4.94 0.39,6.98 2.04,2.04 5.15,2.21 6.97,0.39 l 8.14,-8.13 c 1.82,-1.84 1.65,-4.94 -0.4,-6.97 -1.84,-1.85 -4.51,-2.09 -6.37,-0.77 -5.58,-6.26 -2.65,-7.2 -10.01,-15.35 L 91.13,17.86 C 81.2,8.12 68.3,8.13 55.8,12 Z" />
-    </clipPath>
+    <color-profile
+       id="color-profile4"
+       xlink:href="/usr/share/color/icc/colord/sRGB.icc"
+       name="sRGB" />
     <style
        id="style13449">.ed66a0d7-e473-4f77-bfd6-95783d7d4273{fill:#4ebcbd;}</style>
   </defs>
